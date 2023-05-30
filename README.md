@@ -1,0 +1,2 @@
+# RandomJournal
+Journal topic generator 
